@@ -1,0 +1,11 @@
+{
+  "routes": [
+    {
+      "src": "/app-ads.txt",
+      "dest": "/app-ads.txt",
+      "headers": {
+        "Content-Type": "text/plain"
+      }
+    }
+  ]
+}
